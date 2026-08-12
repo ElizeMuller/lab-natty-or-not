@@ -37,7 +37,8 @@ Gamma - Para criação de slide.
 Com curiosidade embarquei nesse projeto através do chatgpt, sobre como poderia escrever algo ou mesmo ilustrar algo. Primeiramente pensei em criar um conteúdo de aula, mas fui pra o tema literal do projeto sobre Fake Natty e também linkando sobre Deep Fakes. Pedi ao chat gpt para gerar o texto e fiquei lendo e fazendo alterações por mim mesma.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado se encontra através deste link de youtube não listado.
+(https://youtu.be/klHIi4QeYAA)
 
 ## 💭 Reflexão (Opcional)
 Foi complexo achar qual ferramenta realizar o vídeo. Apesar de não ser bem o que eu queria, pela falta de créditos em algumas IAs, resolvi que iria submeter o projeto mesmo assim. No D-ID perdi 6 segundos por ter selecionado a voz errada, apesar de ter ficado bonito, a voz não era a que eu queria.
