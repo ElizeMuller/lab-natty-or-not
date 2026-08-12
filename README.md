@@ -28,7 +28,9 @@ Projeto para o curso de Fundamentos de Inteligência Artificial da DIO.
 
 
 ## 🤖 Tecnologias Utilizadas
-Chatgpt - geração de texto, prompts.
+Chatgpt - geração de texto, prompts e imagens.
+D-ID e HeyGen - para criação de um mini vídeo com personagem feito de anime (imagem criada pelo chatgpt).
+Gamma - Para criação de slide.
 
 
 ## 🧐 Processo de Criação
@@ -38,7 +40,8 @@ Com curiosidade embarquei nesse projeto através do chatgpt, sobre como poderia 
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Foi complexo achar qual ferramenta realizar o vídeo. Apesar de não ser bem o que eu queria, pela falta de créditos em algumas IAs, resolvi que iria submeter o projeto mesmo assim. No D-ID perdi 6 segundos por ter selecionado a voz errada, apesar de ter ficado bonito, a voz não era a que eu queria.
+
 ```
 
 ### Exemplos e Insigths
