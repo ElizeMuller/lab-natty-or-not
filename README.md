@@ -20,16 +20,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto 
+Fake Natty: Um conteúdo não tão natural
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Projeto para o curso de Fundamentos de Inteligência Artificial da DIO.
+
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chatgpt - geração de texto, prompts.
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Com curiosidade embarquei nesse projeto através do chatgpt, sobre como poderia escrever algo ou mesmo ilustrar algo. Primeiramente pensei em criar um conteúdo de aula, mas fui pra o tema literal do projeto sobre Fake Natty e também linkando sobre Deep Fakes. Pedi ao chat gpt para gerar o texto e fiquei lendo e fazendo alterações por mim mesma.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
